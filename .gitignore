@@ -1,0 +1,4 @@
+# Compiled Sources #
+####################
+*.o
+*.out
